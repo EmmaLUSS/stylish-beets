@@ -1,6 +1,7 @@
 body {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
+
 }
 
 h1, h2 {
@@ -16,4 +17,7 @@ blockquote {
 
 span {
   color: #8f2440;
+}
+p {
+  font-family: 'PT Serif', serif;
 }
