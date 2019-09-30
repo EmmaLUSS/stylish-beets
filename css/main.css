@@ -8,9 +8,12 @@ h1, h2 {
 }
 ol {
   color: #8f2440;
-
 }
 
 blockquote {
   font-size: 1.125rem;
+}
+
+span {
+  color: #8f2440;
 }
