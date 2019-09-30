@@ -2,6 +2,14 @@ body {
   background-color: #c9b5ab;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
+}
+ol {
+  color: #8f2440;
+
+}
+
+blockquote {
+  font-size: 1.125rem;
 }
